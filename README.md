@@ -24,3 +24,6 @@
  ```
  Install Wildfly server and use standalone-full.xml
  
+### See the app
+
+http://localhost:8080/casadocodigo/index.xhtml
